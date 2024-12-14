@@ -1,0 +1,3 @@
+([('main',
+   '/Users/pedramjalali/Documents/epson-printer/dist/main',
+   'EXECUTABLE')],)

@@ -80,7 +80,7 @@ class App:
 
     def print_receipt(self):
         try:
-            p = Usb(0x04b8, 0x0202)  # Replace with your printer's Vendor ID and Product ID
+            p = Usb(0x04b8, 0x0202)  # Replace printer's Vendor ID and Product ID
             receipt = "\n".join(self.selected_items)
             p.text(receipt)
             p.cut()

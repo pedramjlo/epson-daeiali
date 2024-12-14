@@ -1713,7 +1713,7 @@
    '/opt/homebrew/Cellar/python@3.13/3.13.1/Frameworks/Python.framework/Versions/3.13/lib/python3.13/typing.py',
    'PYMODULE'),
   ('typing_extensions',
-   '/Users/pedramjalali/Documents/epson-printer/myenv/lib/python3.13/site-packages/setuptools/_vendor/typing_extensions.py',
+   '/Users/pedramjalali/Documents/epson-printer/myenv/lib/python3.13/site-packages/typing_extensions.py',
    'PYMODULE'),
   ('unittest',
    '/opt/homebrew/Cellar/python@3.13/3.13.1/Frameworks/Python.framework/Versions/3.13/lib/python3.13/unittest/__init__.py',
